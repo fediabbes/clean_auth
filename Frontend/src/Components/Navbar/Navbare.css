@@ -1,0 +1,12 @@
+.bg-fedy {
+    background-color: #2854c50f  !important ;
+    opacity: 0.9;
+}
+.nav-link {
+    display: block;
+    margin-right: 28px;
+    padding: 0.5rem 1rem;
+    color: #0d6efd;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
